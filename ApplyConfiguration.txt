@@ -1,0 +1,7 @@
+数据库 ZYQR_RDS- 1
+负载均衡 no 0
+大数据 no 0
+防火墙 no 0
+OSS no 0
+堡垒机 nono 0
+test no 0
